@@ -1,5 +1,12 @@
-
 # GERO Userbot для Telegram на Python с Telethon
+
+# Repository Mirrors:
+
+[GitHub](https://github.com/moyunni/GERO-userbot-tg),
+[GitVerse](https://gitverse.ru/chinchilla/GERO-userbot-tg) and
+[Codeberg](https://codeberg.org/moyunni/GERO-userbot-tg)
+
+**Updates are released faster on codeberg. 10 minutes after writing the repository to codeberg, the changes will go to the mirrors.**
 
 ## Описание
 Данный userbot представляет собой мощного и гибкого помощника для Telegram, написанного на Python с использованием библиотеки Telethon. Userbot объединяет большое количество полезных функций, таких как:
